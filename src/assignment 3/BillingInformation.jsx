@@ -4,7 +4,7 @@ const users = [
 
   {
 
-    name: "Oliver Liam",
+    name: " oliver  Liam",
 
     company: "Viking Burrito",
 
